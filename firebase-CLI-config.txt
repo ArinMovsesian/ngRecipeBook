@@ -1,0 +1,4 @@
+npm install -g firebase-tools
+npm init
+npm deploy
+https://angular-project-19dee.web.app
